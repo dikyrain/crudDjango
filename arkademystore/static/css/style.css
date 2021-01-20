@@ -1,0 +1,23 @@
+
+.showtable{
+    color: white;
+    text-align: center;
+}
+
+body {
+    font:24px Verdana,Arial; 
+    color: white;
+    background: #8fbc8f;
+    height:100%; margin:25px 0;
+    padding:0}
+.button {font:14px Georgia,Verdana; margin-bottom:10px; padding:8px 10px 9px; border:1px solid #ccc; background:#eee; cursor:pointer}
+.button:hover {
+    border:1px solid #bbb;
+    background:white}
+
+.linkedit{
+    color: yellow;
+}
+.linkedit:hover{
+    color: turquoise;
+}
